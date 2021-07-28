@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/boxoffice_test/static/css/main.aa606c88.chunk.css",
+    "main.js": "/boxoffice_test/static/js/main.09d8a6fb.chunk.js",
+    "main.js.map": "/boxoffice_test/static/js/main.09d8a6fb.chunk.js.map",
+    "runtime-main.js": "/boxoffice_test/static/js/runtime-main.0d8d6fcd.js",
+    "runtime-main.js.map": "/boxoffice_test/static/js/runtime-main.0d8d6fcd.js.map",
+    "static/js/2.d5333909.chunk.js": "/boxoffice_test/static/js/2.d5333909.chunk.js",
+    "static/js/2.d5333909.chunk.js.map": "/boxoffice_test/static/js/2.d5333909.chunk.js.map",
+    "index.html": "/boxoffice_test/index.html",
+    "static/css/main.aa606c88.chunk.css.map": "/boxoffice_test/static/css/main.aa606c88.chunk.css.map",
+    "static/js/2.d5333909.chunk.js.LICENSE.txt": "/boxoffice_test/static/js/2.d5333909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d8d6fcd.js",
+    "static/js/2.d5333909.chunk.js",
+    "static/css/main.aa606c88.chunk.css",
+    "static/js/main.09d8a6fb.chunk.js"
+  ]
+}
